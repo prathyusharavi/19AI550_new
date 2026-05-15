@@ -140,6 +140,7 @@ Check the following
 ### Output:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7da56c9c-decc-483a-adb3-d587a7b66219" />
 ### Result:
+```
 Thus the pathfinding algorithm was sucessfully implemented.
 ```
 
