@@ -1,5 +1,6 @@
 # Ex.No: 10 | Implementation of 2D Mini-Project (Football Arcade Game)
-### DATE: 25-06-2026                                                                            
+### Name: Yenuganti Prathyusha
+### DATE: 25-05-2026                                                                            
 ### REGISTER NUMBER : 212223240187
 
 ## AIM: 
