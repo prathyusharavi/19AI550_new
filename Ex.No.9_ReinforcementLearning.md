@@ -1,6 +1,7 @@
 # Ex.No: 9  Implementation of RollarBall Design using Reinforcement Learning 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### NAME: Yenuganti Prathyusha
+### DATE:  21/5/2026                                                                          
+### REGISTER NUMBER : 212223240187
 ### AIM: 
 To write a program to design RollerBall and train the Rollerbal by Reinforcement learning  in Unity 
 ### Installation Required 
@@ -157,14 +158,12 @@ behaviors:
     max_steps: 500000
     time_horizon: 64
     summary_freq: 10000
+ ```
+
 ### Output:
 
-
-
-
-
-
-
+<img width="519" height="320" alt="image" src="https://github.com/user-attachments/assets/df0e49af-9bea-42e8-a56f-b0078b0c3ea8" />
+<img width="421" height="292" alt="image" src="https://github.com/user-attachments/assets/6ef1e249-5f85-46e3-b554-1f26c5e932e8" />
 
 
 ### Result:
